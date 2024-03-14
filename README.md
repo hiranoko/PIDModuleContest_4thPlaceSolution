@@ -1,6 +1,6 @@
-# データセット生成
+# Modules for Generating Pre-training Image Datasets Contest Solution Description
 
-[事前学習用画像データセット生成モジュールコンテスト 本戦](https://signate.jp/competitions/1073/submissions)
+[Modules for Generating Pre-training Image Datasets Contest(Final Round)](https://signate.jp/competitions/1073/submissions)
 
 ## Environment
 
@@ -23,6 +23,6 @@ $ cd src
 $ python main.py
 ```
 
-### 生成画像サンプル
+### Generated Image Samples
 
 ![sample](./doc/sample.png)
