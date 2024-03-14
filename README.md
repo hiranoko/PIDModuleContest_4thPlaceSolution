@@ -10,11 +10,19 @@ $ conda activate submit
 $ pip install -r requirements.txt
 ```
 
-## Our Solution
+## Solution
 
-[Please Click Here](./doc/Solution.md)
+- [Report](./doc/Solution.md)
+
+- [Presentation](./doc/presentation.pdf)
+
+## Usage
 
 ```
 $ cd src
 $ python main.py
 ```
+
+### 生成画像サンプル
+
+![sample](./doc/sample.png)
